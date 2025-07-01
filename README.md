@@ -19,6 +19,7 @@ abra os arquivos html na pasta replays para visualizar os replays
 ---
 
 ## 📦 Como Rodar o Projeto
+criar arqeuivo .env para armazenar nome de usuario e senha
 comando para incializar o server local "cd pokemon-showdown" "node pokemon-showdown start --no-security"
 
 ### ⚙️ Pré-requisitos
